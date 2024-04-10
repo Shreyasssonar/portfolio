@@ -10,14 +10,10 @@ const About = () => {
       <div className='AboutPage'>
         <div className='AboutText'>
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
-          <p>
-            Hi, my name is <b>Shreyas Sonar</b> and I am from New Delhi, India.
-            I'm a <b>MERN stack web developer</b> and a final year college student pursuing <b>Master of Computer Application (MCA)</b>. <br/><br/>
-            I have done an internship as a <b>software developer</b> at GoalFi which is a fintech startup.
-            I love to create original projects with beautiful designs, you can check out some of my work in the projects section.<br/><br/>
-            I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br/>
-            Apart from coding I love to do photography, you can check out some of my shots here <a href="https://www.linkedin.com/in/shreyas-sonar-09a389215/" target='_blank'>LinkedIn.</a>
-          </p>
+        
+<p>
+    Hello, I'm <b>Shreyas Sonar</b> from India, currently pursuing my Master of Computer Application (MCA) degree. I have a strong background in MERN stack web development and hold a Bachelor's degree in Computer Application (BCA). Experienced in Java, Python, React JS, and more, I've completed training in Java Full Stack Development and hold certifications in MERN Full Stack Development and React JS. During my internship at GoalFi, I honed my skills in software development and Agile methodologies. Passionate about creating projects with elegant designs, some highlights include a Personal Finance Tracker and a Sudoku Game. Besides coding, I enjoy photography. Feel free to connect via <a href="https://www.linkedin.com/in/shreyas-sonar-09a389215/" target='_blank'>LinkedIn</a> for more. 
+</p>
         </div>
         <div>
           <Tilt>

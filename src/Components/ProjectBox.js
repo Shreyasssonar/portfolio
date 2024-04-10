@@ -8,13 +8,13 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
       description: "Designed a user-friendly interface using Ant Design. Implemented secure user authentication through Google login. Resulted in a 25% increase in user engagement and a 30% improvement in data security. Technology and Language: React JS, Redux, HTML5, CSS3.",
       githubLink: "",
       websiteLink: "https://personal-finance-tracker-chi.vercel.app/",
-      imgUrl: "https://www.shutterstock.com/image-vector/finance-accounting-logo-design-vector-260nw-1722070894.jpg"
+      imgUrl: "https://assets.ycodeapp.com/assets/app18525/images/P2Li2UomEk3FMao2CxeXug4wbtpeN0QJJmh2QrGy-published.webp"
     },
     "Sudoku Game": {
       description: "Developed engaging GUI and efficient algorithms for solving Sudoku puzzles. Resulted in a 40% increase in user retention and a 20% enhancement in gameplay functionality. Language and Technology: Java, Java Swing.",
       githubLink: "https://github.com/Shreyasssonar/SUDOKU",
       websiteLink: "",
-      imgUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg/800px-Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg.png"
+      imgUrl: "https://gamerules.com/wp-content/uploads/Sudoku-1-750x422.jpg"
     },
     "YouTube Clone": {
       description: "Integrated YouTube API for efficient video searching. Ensured cross-device compatibility, resulting in a 15% boost in satisfaction. Language and Technologies: HTML, CSS, JavaScript.",
@@ -26,7 +26,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
       description: "Description for Airbnb clone project.",
       githubLink: "",
       websiteLink: "https://shreyasssonar.github.io/Airbnb-clone/",
-      imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8zRehMLc_-07JbnDGm8SUdZfETRehEYSpOKL4uuM3A&s"
+      imgUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAVgMT7RWCLJmAaOLUVWSwkTMlTeLKEzoC5mA_t9qVfw&s"
     }
   };
 
